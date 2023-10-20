@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 김 학문</h1>
-<h3 align="center">A passionate frontend developer and web publisher from Korea</h3>
+<h3 align="center">A passionate frontend developer and web publisher</h3>
 
 - 🔭 I’m currently working on [데브시스터즈](https://hakmm.github.io/pf7/)
 
