@@ -1,3 +1,13 @@
+# 웹 디자이너겸 개발자 지망생 : 김 학문
+## I aspire to become a prospective frontend developer and web publisher
+
+경력과 스킬&툴 포트폴리오등의 소개가 있습니다.
+### 기본정보
+- 1996.4월생
+- 수정구 거주
+- 남자
+- ESTP 
+
 <h1 align="center">Hi 👋, I'm 김 학문</h1>
 <h3 align="center">A passionate frontend developer and web publisher</h3>
 
